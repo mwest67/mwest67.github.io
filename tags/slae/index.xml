@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>slae on Generic title here..</title>
+    <link>/tags/slae/</link>
+    <description>Recent content in slae on Generic title here..</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/slae/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SLAE Tcp Bind Shell</title>
+      <link>/2017/03/slae-tcp-bind-shell/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/03/slae-tcp-bind-shell/</guid>
+      <description>SLAE The SecurityTube Linux Assembly Expert is a course and certification from the folks over at http://www.securitytube-training.com and also available on http://www.pentesteracademey.com.
+This blog post is the first post required for the exam requirements. My student id is: PA-4897 and the github url to my repo is https://github.com/mwest67/slae.
+Getting started Our first task is to create a tcp bind shell in shellcode. In order to do this lets first understand what a bind shell is.</description>
+    </item>
+    
+  </channel>
+</rss>
