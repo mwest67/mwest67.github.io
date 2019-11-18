@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tools on Generic title here..</title>
-    <link>/tags/tools/</link>
-    <description>Recent content in tools on Generic title here..</description>
+    <title>tools on General Infosec Ramblings</title>
+    <link>https://mwest67.github.io/tags/tools/</link>
+    <description>Recent content in tools on General Infosec Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Oct 2016 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/tools/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://mwest67.github.io/tags/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Vagrant</title>
-      <link>/2016/10/using-vagrant/</link>
+      <link>https://mwest67.github.io/2016/10/using-vagrant/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/2016/10/using-vagrant/</guid>
+      <guid>https://mwest67.github.io/2016/10/using-vagrant/</guid>
       <description>Why When I started to learn about buffer overflows and memory exploits etc I found that lots of the tutorials and material left out the details of environment specifics. Therefore when I came to follow through the tutorials I ended up with radically different results, got confused and felt like giving up.
 Virtualisation FTW These days it is easy to run virtual machines and Oracle&amp;rsquo;s virtualbox is free to use and is stable enough to not have caused me too many issues.</description>
     </item>

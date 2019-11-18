@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Generic title here..</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Generic title here..</description>
+    <title>Tags on General Infosec Ramblings</title>
+    <link>https://mwest67.github.io/tags/</link>
+    <description>Recent content in Tags on General Infosec Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 21 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://mwest67.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>32bit</title>
-      <link>/tags/32bit/</link>
+      <link>https://mwest67.github.io/tags/32bit/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/32bit/</guid>
+      <guid>https://mwest67.github.io/tags/32bit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>assembly</title>
-      <link>/tags/assembly/</link>
+      <link>https://mwest67.github.io/tags/assembly/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/assembly/</guid>
+      <guid>https://mwest67.github.io/tags/assembly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>/tags/linux/</link>
+      <link>https://mwest67.github.io/tags/linux/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/linux/</guid>
+      <guid>https://mwest67.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shellcode</title>
-      <link>/tags/shellcode/</link>
+      <link>https://mwest67.github.io/tags/shellcode/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/shellcode/</guid>
+      <guid>https://mwest67.github.io/tags/shellcode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>slae</title>
-      <link>/tags/slae/</link>
+      <link>https://mwest67.github.io/tags/slae/</link>
       <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/slae/</guid>
+      <guid>https://mwest67.github.io/tags/slae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bufferoverflow</title>
-      <link>/tags/bufferoverflow/</link>
+      <link>https://mwest67.github.io/tags/bufferoverflow/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/bufferoverflow/</guid>
+      <guid>https://mwest67.github.io/tags/bufferoverflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>exploit</title>
-      <link>/tags/exploit/</link>
+      <link>https://mwest67.github.io/tags/exploit/</link>
       <pubDate>Thu, 03 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/exploit/</guid>
+      <guid>https://mwest67.github.io/tags/exploit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tools</title>
-      <link>/tags/tools/</link>
+      <link>https://mwest67.github.io/tags/tools/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tools/</guid>
+      <guid>https://mwest67.github.io/tags/tools/</guid>
       <description></description>
     </item>
     
